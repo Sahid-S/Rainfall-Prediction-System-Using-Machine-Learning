@@ -1,0 +1,17 @@
+# Model files
+*.pkl
+
+# Data files
+rainfall.csv
+
+# Streamlit cache
+.streamlit/
+__pycache__/
+*.pyc
+
+.venv
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
