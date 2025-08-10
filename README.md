@@ -1,0 +1,2 @@
+# Rainfall-Prediction-System-Using-Machine-Learning
+Comprehensive project focusing on predicting monthly, seasonal, and annual rainfall in India based on historical data. Developed a Streamlit-based interactive dashboard and dual-model prediction engine (Linear Regression &amp; Random Forest) that provided accurate rainfall forecasts and visual insights for agricultural planning and climate research.
